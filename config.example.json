@@ -1,0 +1,22 @@
+{
+    "api_key": "",
+    "model": "gemini-4-hydrogen",
+    "source_folder": "",
+    "overlay_x": -1,
+    "overlay_y": -1,
+    "font_size": 13,
+    "font_color": "#909090",
+    "font_opacity": 0.75,
+    "auto_hide_seconds": 10,
+    "hotkey_scan": "Ctrl+Shift+Q",
+    "hotkey_hide": "Ctrl+Shift+X",
+    "hotkey_toggle_continuous": "Ctrl+Shift+C",
+    "continuous_mode": false,
+    "continuous_interval_sec": 12,
+    "continuous_only_on_change": true,
+    "change_threshold_percent": 3.0,
+    "thinking_level": "low",
+    "use_google_search": true,
+    "show_startup_notification": true,
+    "show_answer_on_tray_icon": true
+}

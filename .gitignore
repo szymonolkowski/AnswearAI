@@ -1,0 +1,47 @@
+# Local configuration & secrets (contains API keys)
+config.json
+**/config.json
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.*
+
+# Gemini Files API cache metadata
+.gemini_file_cache.json
+**/.gemini_file_cache.json
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# OS / Temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
